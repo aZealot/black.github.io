@@ -1,1 +1,1 @@
-# black.github.io
+# [black](https://black.github.io/)
